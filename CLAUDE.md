@@ -12,7 +12,8 @@ tests/
 ```
 
 ## Commands
-npm test [ONLY COMMANDS FOR ACTIVE TECHNOLOGIES][ONLY COMMANDS FOR ACTIVE TECHNOLOGIES] npm run lint
+npm test
+npm run lint
 
 ## Code Style
 JavaScript ES2022 (Vite 5.x build tool): Follow standard conventions

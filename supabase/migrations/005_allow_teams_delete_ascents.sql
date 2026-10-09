@@ -1,4 +1,4 @@
--- Migration 011: Allow teams to delete their own ascents
+-- Migration 005 (originally numbered 011; renumbered 2026-10-09 because 011_leaderboard_nudges_fixed.sql shared the prefix): Allow teams to delete their own ascents
 -- Date: 2025-10-13
 -- Purpose: Enable teams to delete accidentally logged sends
 
